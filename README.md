@@ -22,7 +22,7 @@ a publicly available medical dataset.
 
 ## 🎥 Walkthrough Video
 
-[▶️ Click here to watch the full project walkthrough](PASTE YOUR LOOM LINK HERE)
+[▶️ Click here to watch the full project walkthrough](https://www.loom.com/share/4d3e495edba242a5a989d178f42811a1)
 
 ---
 
